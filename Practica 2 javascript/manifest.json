@@ -1,0 +1,19 @@
+{
+    "short_name": "pagina1",
+    "name": "creando pagina1",
+    "icons":[
+        {
+            "src": "images/descarga.jpeg",
+            "sizes": "183*275",
+            "type": "image/jpeg"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#30cfd0",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "330867",
+    "description": "halo"
+    
+
+}
